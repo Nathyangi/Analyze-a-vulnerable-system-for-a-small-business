@@ -1,5 +1,38 @@
-# Analyze-a-vulnerable-system-for-a-small-business
-Analyze a vulnerable system for a small business
-You are a newly hired cybersecurity analyst for an e-commerce company. The company stores information on a remote database server, since many of the employees work remotely from locations all around the world. Employees of the company regularly query, or request, data from the server to find potential customers. The database has been open to the public since the company's launch three years ago. As a cybersecurity professional, you recognize that keeping the database server open to the public is a serious vulnerability.
+# 🛡️ E-Commerce Vulnerability Assessment
 
-You are tasked with completing a vulnerability assessment of the situation to communicate the potential risks to decision makers at the company. You must create a written report that explains how the vulnerable server is a risk to business operations and how it can be secured.
+This portfolio project simulates a cybersecurity vulnerability assessment of a remote database server for an e-commerce company. It demonstrates my skills in identifying critical security issues and proposing effective mitigation strategies.
+
+## 🔍 Project Overview
+- **Scenario:** The company stores sensitive data on a public-facing remote database used by remote employees worldwide.
+- **Problem:** The database has been open to the public since launch, leading to major security risks.
+- **Goal:** Identify vulnerabilities, assess risk, and provide secure configuration solutions.
+
+## 🎯 Key Objectives
+- Identify real-world vulnerabilities in exposed cloud systems.
+- Perform risk assessment aligned with OWASP/NIST standards.
+- Simulate threat modeling using basic tools and visuals.
+
+## 🛠 Tools & Skills Demonstrated
+- Nmap (port scanning)
+- Shodan (public exposure check)
+- Threat Modeling
+- Report Writing
+- OWASP Top 10
+
+## 🧠 What I Learned
+- How misconfigurations expose systems to unauthorized access.
+- Importance of authentication, encryption, and access controls.
+- Clear communication of cybersecurity risks to decision-makers.
+
+## 📁 Files Included
+- `vulnerability_report.md` – Full written assessment
+- `threat_model.png` – Visual model of risks
+- `tools_used.md` – Explanation of tools like Nmap and Shodan
+
+## 🔐 Disclaimer
+This project is a simulation for educational purposes only. No real-world systems were scanned or compromised.
+
+## 📫 Contact
+Connect with me to collaborate or learn more:
+- LinkedIn: www.linkedin.com/in/nathyangi
+- Email: Agbeyangi Nathaniel
