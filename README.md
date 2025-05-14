@@ -24,11 +24,6 @@ This portfolio project simulates a cybersecurity vulnerability assessment of a r
 - Importance of authentication, encryption, and access controls.
 - Clear communication of cybersecurity risks to decision-makers.
 
-## 📁 Files Included
-- `vulnerability_report.md` – Full written assessment
-- `threat_model.png` – Visual model of risks
-- `tools_used.md` – Explanation of tools like Nmap and Shodan
-
 ## 🔐 Disclaimer
 This project is a simulation for educational purposes only. No real-world systems were scanned or compromised.
 
