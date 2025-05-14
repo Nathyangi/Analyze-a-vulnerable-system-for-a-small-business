@@ -7,10 +7,32 @@ This portfolio project simulates a cybersecurity vulnerability assessment of a r
 - **Problem:** The database has been open to the public since launch, leading to major security risks.
 - **Goal:** Identify vulnerabilities, assess risk, and provide secure configuration solutions.
 
-## 🎯 Key Objectives
-- Identify real-world vulnerabilities in exposed cloud systems.
-- Perform risk assessment aligned with OWASP/NIST standards.
-- Simulate threat modeling using basic tools and visuals.
+## Scope
+The scope of this vulnerability assessment relates to the current access controls of the system.
+The assessment will cover a period of three months, from June 20XX to August 20XX. NIST SP
+800-30 Rev. 1 is used to guide the risk analysis of the information system.
+
+## Purpose
+The database server is a centralized computer system that stores and manages large amounts
+of data. The server is used to store customer, campaign, and analytic data that can later be
+analyzed to track performance and personalize marketing eforts. It is critical to secure the
+system because of its regular use for marketing operations.
+
+Risk Assessment
+![image](https://github.com/user-attachments/assets/5f337cb6-f723-498b-ba43-001c1151edba)
+
+## Approach
+Risks that were measured considered the data storage and management procedures of the
+business. Potential threat sources and events were determined using the likelihood of a
+security incident given the open access permissions of the information system. The severity of
+potential incidents were weighed against the impact on day-to-day operational needs.
+
+## Remediation Strategy
+Implementation of authentication, authorization, and auditing mechanisms to ensure that only
+authorized users access the database server. This includes using strong passwords, role-based
+access controls, and multi-factor authentication to limit user privileges. Encryption of data in
+motion using TLS instead of SSL. IP allow-listing to corporate offices to prevent random users
+from the internet from connecting to the database.
 
 ## 🛠 Tools & Skills Demonstrated
 - Nmap (port scanning)
